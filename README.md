@@ -16,3 +16,14 @@ I want a virtual version of the old GPS devices that had really limited memory, 
 * [Leaflet Omnivore](https://github.com/mapbox/leaflet-omnivore)
 * [Indiana Jones Adventure Color Palette](https://www.color-hex.com/color-palette/13932)
 * GitHub Pages
+
+## Data Sources
+
+Base layer:
+
+* [ESRI World Shaded Relief](https://www.arcgis.com/home/item.html?id=9c5370d0b54f4de1b48a3792d7377ff2)
+
+Cheat layers:
+
+* [CartoDB Positron (no labels)](https://carto.com/blog/getting-to-know-positron-and-dark-matter/)
+* [ESRI World Imagery](https://www.arcgis.com/home/item.html?id=10df2279f9684e4a9f6a7f08febac2a9)
