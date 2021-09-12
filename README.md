@@ -4,7 +4,7 @@ In planning an upcoming trip, I realised I don't actually want a full map to be 
 
 I want a virtual version of the old GPS devices that had really limited memory, but also to reproduce the experiences of old-school explorers
 
-[!screenshot.png](screenshot.png)
+![screenshot.png](screenshot.png)
 
 ## Made With
 
