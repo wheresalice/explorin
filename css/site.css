@@ -1,0 +1,22 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+html, body, #map {
+    height: 100%;
+    width: 100vw;
+    color: #40423a;
+}
+
+.leaflet-container {
+    background-color: #d0d0c3;
+}
+
+.leaflet-popup-content-wrapper, .leaflet-popup.tip, .leaflet-control {
+    background-color: #e9e9e9 !important;
+}
+
+.leaflet-marker-icon {
+    filter: sepia(0.8);
+}
